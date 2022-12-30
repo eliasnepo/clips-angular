@@ -1,12 +1,12 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { AuthModelComponent } from './auth-model/auth-model.component';
+import { AuthModalComponent } from './auth-modal/auth-modal.component';
 
 
 
 @NgModule({
   declarations: [
-    AuthModelComponent
+    AuthModalComponent
   ],
   imports: [
     CommonModule
